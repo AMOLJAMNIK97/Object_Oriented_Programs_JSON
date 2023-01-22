@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace Inventory_JSON
 {
-    internal class InventoryModal
+    public class InventoryData
     {
-        public string name { get; set; }
-
-        public int price { get; set; }
-
-        public int weight { get; set; }
+        public string Name { get; set; }
+        public int Weight { get; set; }
+        public int PricePerKg { get; set; }
     }
 }

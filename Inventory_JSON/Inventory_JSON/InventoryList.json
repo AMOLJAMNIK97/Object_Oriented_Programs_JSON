@@ -46,8 +46,8 @@
     },
     {
       "Name": "Moong",
-      "PricePerKg": 40,
-      "Weight": 15
-    },
+      "Weight": 15,
+      "PricePerKg": 40
+    }
   ]
 }
